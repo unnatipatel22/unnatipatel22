@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently building **CodeDuel** and expanding my developer portfolio.<br><br>👯 I’m open to collaborating on **Open Source, MERN Stack, Flutter, and Python projects**.<br><br>🤝 I’m exploring **Backend Development, Scalable APIs, and Cloud Technologies**.<br><br>🌱 I’m currently learning **Advanced React, Node.js, Flutter, and System Design**.<br><br>💬 Ask me about **Java, Python, React, Node.js, MongoDB, Flutter, and Web Development**.<br><br>⚡ Fun fact: **I enjoy building real-world projects and believe the best way to learn is by creating. 🚀**
+🔭 I’m currently building **CodeDuel**, solving **DSA** problems, and expanding my developer portfolio.<br><br>
+
+👯 I’m open to collaborating on **Open Source, MERN Stack, Flutter, and Full-Stack Development** projects.<br><br>
+
+🤝 I’m exploring **Backend Development, Scalable APIs, System Design, and Cloud Technologies**.<br><br>
+
+🌱 I’m currently learning **Advanced DSA, Backend Development, and System Design**.<br><br>
+
+💬 Ask me about **Java, JavaScript, HTML, CSS, Node.js, Next.js, MongoDB, Flutter, and Web Development**.<br><br>
+
+⚡ Passionate about building scalable applications, writing clean code, and continuously learning new technologies. 🚀
 
 
 ## 🌐 Socials:
